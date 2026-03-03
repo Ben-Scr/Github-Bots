@@ -16,10 +16,7 @@ More automation bots may be added in future updates.
 ## Bots
 
 ### Follow Back Bot
-
 - Automatically follows back followers
-- Reduces manual account management
-- Can be executed manually or scheduled
 
 ## Requirements
 
