@@ -1,10 +1,10 @@
-# GitHub-Follower-Bots
+# GitHub-Bots
 
 A Collection of GitHub Bots for Automated Following
 
 ## Overview
 
-This repo is a collection of automation scripts designed to manage GitHub follow interactions efficiently.
+This repo is a collection of automation scripts designed to manage GitHub interactions efficiently.
 
 Currently, the repository includes:
 
