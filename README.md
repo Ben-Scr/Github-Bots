@@ -29,7 +29,7 @@ More automation bots may be added in future updates.
 ```powershell
 $env:GITHUB_TOKEN="your_token"
 ```
-- Mac & Linux
+- Mac or Linux
 ```bash
 export GITHUB_TOKEN="your_token"
 ```
